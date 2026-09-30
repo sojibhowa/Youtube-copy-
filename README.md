@@ -1,4 +1,3 @@
-এই ফাইলটাকে zip এ রূপান্তরিত করে দেন, zip ফাইলে।
 <!DOCTYPE html>
 <html lang="bn" class="dark">
 <head>
